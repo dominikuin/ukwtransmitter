@@ -1,0 +1,24 @@
+Circuit: * C:\Users\dome-\Desktop\UKW-Sender\Sender.asc
+
+Warning: Multiple definitions of model "2sc9018" Type: BJT
+Warning: Multiple definitions of model "ss9018g" Type: BJT
+WARNING: Less than two connections to node INR.  This node is used by R4.
+Direct Newton iteration for .op point succeeded.
+
+Date: Tue Feb 09 20:16:26 2021
+Total elapsed time: 11.900 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 2021916
+traniter = 2021908
+tranpoints = 681232
+accept = 451364
+rejected = 229868
+matrix size = 23
+fillins = 10
+solver = Normal
+Matrix Compiler1: 2.16 KB object code size  0.5/0.3/[0.2]
+Matrix Compiler2: 2.04 KB object code size  0.2/0.3/[0.2]
+
